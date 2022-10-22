@@ -5,5 +5,6 @@
 * [Portal do aluno](https://login.kroton.com.br/AccountAluno/Login?client_id=169104&response_type=code&referrer=alunodigital.anhanguera.com)
 * [Portal Ava](https://colaboraread.com.br/aluno/dashboard/index?matriculaId=3395650401)
 # Ferramentas
+* [Ferramenta CASE gratuita que gera scripts para o SGBD MySQL](https://www.mysql.com/products/workbench/)
 * [Ferramenta CASE para criar diagramas UML.](https://astah.net/downloads/)
 * [Padlet criação de murais](https://padlet.com/tiagomoreirapimentel72/2n17ytyw6j5oouj)
