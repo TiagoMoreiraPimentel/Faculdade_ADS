@@ -1,6 +1,6 @@
 # 1° Semestre
 
-## Algoritmos e Programação Estruturada
+## <sub>Algoritmos e Programação Estruturada</sub>
 
     * Conceitos
     * Algoritimos
