@@ -2,8 +2,6 @@
 
 ## Algoritmos e Programação Estruturada
 
-    # Teleaula 1
-
     * Conceitos
     * Algoritimos
     * Fluxograma e pseudocódigo
@@ -14,9 +12,6 @@
     * Operadores relacionais
     * Operadores lógicos
     * Comandos de saída de dados
-
-    # Teleaula 2
-
     * Estrutura de decisão e repetição
     * If e Else
     * Loop
@@ -36,10 +31,7 @@
     * Structs
     * Switch / case / breack / default
 
-
 ## Análise e modelagem de sistemas
-
-    # Teleaula 1
 
     * Evolução dos Softwares
     * Processos de Softwares
@@ -67,8 +59,6 @@
 
 ## Engenharia de Software
 
-    # Teleaula 1
-
     * Principios
     * Fundamentos
     * Tipos de software
@@ -92,8 +82,6 @@
 
 ## Logica computacional
 
-    # Teleaula 1
-
     * Contextualizando
     * Definições
     * Proposições
@@ -112,9 +100,6 @@
     * Combinação
     * Arvore de decisões
     * Fundamentos da logica
-
-    # Teleaula 2
-
     * Teoria de conjuntos
     * Tipos especiais de conjuntos
     * Diagrama de venn
@@ -127,16 +112,11 @@
     * Teoria dos conjuntos
     * Algebra dos conjuntos
     * Aplicação de teoria dos conjuntos
-
-    # Teleaula 3
-
     * Introdução a Lógica Proposicional
     * Conectivos e classificação textual
     * Inferências
 
 ## Modelagem de dados
-
-    # teleaula 1
 
     * Fundamentos de banco de dados
     * Modelagem
@@ -150,3 +130,40 @@
     * MER Generalização e especialização
     * Concepção e dicionario de dados
     * Ferramentas cases
+
+# 2° Semestre
+
+## Análise Orientada a Objetos
+
+### Teleaula 1
+
+    * UML - diagramas - paradigman
+    * Classes, metodos e objetos
+    * Linguagem de modelagem unificada
+    * Modelos de UML
+    * Fluxo de desenvolvimento (ex: Modelos Àgeis)
+    * Abstração Alto, medio e baixo (NIVEL)
+    * 14 diagramas de UML existem
+    * Processos unificados 4 fases
+    * Regras de consistencia e organização
+    * Mecanismos comuns da UML
+    * Caracteristicas da UML
+
+## Empreendedorismo e Inovação
+
+### Teleaula 1
+
+    * Empreendedorismo e inovação
+    * o que é o empreendedorismo?
+
+## Interface e Usabilidade
+
+### Teleaula 1
+
+    * Ergonomia
+    * Experiencia do usuario (UX)
+    * Projeto centrado no usuario
+    * Processo cognitivo
+    * Heuristica de nielsen
+    * Regras de sheneiderman
+    * Principios de Gestalt 
