@@ -33,3 +33,9 @@
 * Teoria dos conjuntos
 * Algebra dos conjuntos
 * Aplicação de teoria dos conjuntos
+
+# Teleaula 3
+
+* Introdução a Lógica Proposicional
+* Conectivos e classificação textual
+* Inferências
