@@ -149,6 +149,13 @@
     * Mecanismos comuns da UML
     * Caracteristicas da UML
 
+### Teleaula 2
+
+    * Diagramas
+    * Caso de uso / Requisitos
+    * Classes / Estrutural
+    * Atividades / Corponamental 
+
 ## Empreendedorismo e Inovação
 
 ### Teleaula 1
@@ -166,4 +173,14 @@
     * Processo cognitivo
     * Heuristica de nielsen
     * Regras de sheneiderman
-    * Principios de Gestalt 
+    * Principios de Gestalt
+
+### Teleaula 2
+
+    * Design thinking
+    * Design IHC
+    * Design Sprint
+    * Planejamento de interfaces
+    * Processos de Design / interação e metodos agéis
+    * Tecnicas de especificações de usuarios
+    * Especificação e projeto de interface
