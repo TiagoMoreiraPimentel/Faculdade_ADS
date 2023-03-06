@@ -148,6 +148,9 @@
     * Regras de consistencia e organização
     * Mecanismos comuns da UML
     * Caracteristicas da UML
+    * Diagrama de máquina de estados
+    * Diagrama de sequencia
+    * Diagrama de comunicação
 
 ### Teleaula 2
 
