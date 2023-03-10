@@ -149,14 +149,14 @@
     * Diagrama de máquina de estados
     * Diagrama de sequencia
     * Diagrama de comunicação
-    * Diagramas
-    * Caso de uso / Requisitos
-    * Classes / Estrutural
-    * Atividades / Corponamental 
-    * Diagrama de máquina de estados
-    * Diagrama de sequência
-    * Diagrama de comunicação
-
+    * Diagramas de Caso de uso / Requisitos
+    * Diagramas de Classes / Estrutural
+    * Diagrama de atividades / Corponamental
+    * Diagrama de pacotes
+    * Diagrama de estrutura composta
+    * Diagrama de implantação
+    * Modelagem de sistema com processo unificado
+    * Transição da Análise para o Projeto
 
 ## Empreendedorismo e Inovação
 
