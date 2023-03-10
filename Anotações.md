@@ -163,7 +163,7 @@
 
     * Diagrama de máquina de estados
     * Diagrama de sequência
-    * Diagrama de comunicação;
+    * Diagrama de comunicação
 
 
 ## Empreendedorismo e Inovação
