@@ -135,8 +135,6 @@
 
 ## Análise Orientada a Objetos
 
-### Teleaula 1
-
     * UML - diagramas - paradigman
     * Classes, metodos e objetos
     * Linguagem de modelagem unificada
@@ -151,16 +149,10 @@
     * Diagrama de máquina de estados
     * Diagrama de sequencia
     * Diagrama de comunicação
-
-### Teleaula 2
-
     * Diagramas
     * Caso de uso / Requisitos
     * Classes / Estrutural
     * Atividades / Corponamental 
-    
-### Teleaula 3
-
     * Diagrama de máquina de estados
     * Diagrama de sequência
     * Diagrama de comunicação
@@ -168,14 +160,10 @@
 
 ## Empreendedorismo e Inovação
 
-### Teleaula 1
-
     * Empreendedorismo e inovação
     * o que é o empreendedorismo?
 
 ## Interface e Usabilidade
-
-### Teleaula 1
 
     * Ergonomia
     * Experiencia do usuario (UX)
@@ -184,9 +172,6 @@
     * Heuristica de nielsen
     * Regras de sheneiderman
     * Principios de Gestalt
-
-### Teleaula 2
-
     * Design thinking
     * Design IHC
     * Design Sprint
