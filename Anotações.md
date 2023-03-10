@@ -158,6 +158,12 @@
     * Caso de uso / Requisitos
     * Classes / Estrutural
     * Atividades / Corponamental 
+    
+### Teleaula 3
+   
+   * Diagrama de máquina de estados
+   * Diagrama de sequência
+   * Diagrama de comunicação
 
 ## Empreendedorismo e Inovação
 
