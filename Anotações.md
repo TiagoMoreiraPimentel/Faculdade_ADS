@@ -179,3 +179,7 @@
     * Processos de Design / interação e metodos agéis
     * Tecnicas de especificações de usuarios
     * Especificação e projeto de interface
+    * Projetos de interface e interação
+    * Design e estilos de interação
+    * Analise e requisitos para Projetos de IHC
+    * Acessibilidade
