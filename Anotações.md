@@ -183,3 +183,7 @@
     * Design e estilos de interação
     * Analise e requisitos para Projetos de IHC
     * Acessibilidade
+    * Avaliação e problemas de usabilidades de interfaces
+    * Avaliação - tipos
+    * Técnicas de inspenção e Avaliação de interfaces
+    * Testes e usabilidades de interfaces
