@@ -187,3 +187,8 @@
     * Avaliação - tipos
     * Técnicas de inspenção e Avaliação de interfaces
     * Testes e usabilidades de interfaces
+
+## Linguagem de Programação
+    * Estrutura de dados em python
+    * Algoritimos de buscas
+    * Algoritimos de ordenação
