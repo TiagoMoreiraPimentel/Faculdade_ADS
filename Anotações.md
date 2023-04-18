@@ -192,3 +192,14 @@
     * Estrutura de dados em python
     * Algoritimos de buscas
     * Algoritimos de ordenação
+    * Conceitos de orientação a objetos
+    * Abstração
+    * Atributos
+    * Métodos
+    * Herança
+    * Encapsulamento
+    * Poliformismo
+    * A Classes em Python
+    * Bibliotecas e módulos em Python
+    * CRUD
+    
