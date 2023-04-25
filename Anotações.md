@@ -202,4 +202,7 @@
     * A Classes em Python
     * Bibliotecas e módulos em Python
     * CRUD
+    * Introdução a biblioteca Pandas
+    * Manipulação de dados em Pandas
+    * Vizualização de dados com Python
     
