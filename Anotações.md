@@ -162,6 +162,12 @@
 
     * Empreendedorismo e inovação
     * o que é o empreendedorismo?
+    * Gestão da inovação: benefícios e evolução organizacional
+    * Storytelling
+    * Inovação e seus impactos no ambiente de negócios contemporâneo
+    * Da invenção à inovação: criando novos produtos e serviços
+    * Inovação na prática e a gestão do conhecimento
+    
 
 ## Interface e Usabilidade
 
